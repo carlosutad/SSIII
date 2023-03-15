@@ -192,3 +192,14 @@ do
 done
 
 ```
+EJERCICI012
+```Bash
+#!/bin/bash
+for i in {1..10}
+do
+    echo "Introduzca una palabra:"
+    read palabra
+    echo "La palabra introducida es: $palabra"
+done
+
+```
