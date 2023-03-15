@@ -1,5 +1,5 @@
 # SSIII
-´´´bash
+´´´
 #!/bin/bash
 
 echo "Ingrese un número entero: "
